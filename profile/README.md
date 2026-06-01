@@ -1,32 +1,34 @@
 # DarkGameHub
 
-DarkGameHub is an independent game studio building atmospheric co-op mystery games with a dark sense of humor, readable survival systems, and strange civic spaces.
+DarkGameHub 是一个由 4 人组成的独立游戏工作室。
 
-## Projects
+我们关注叙事、合作、悬疑和黑色幽默，希望把普通的工作、制度、城市空间和日常压力，做成既荒诞又有压迫感的游戏体验。
 
-### Black Commission
+## 当前项目
 
-Black Commission is a 1-4 player co-op outsourcing survival-horror game about a nearly bankrupt commission office taking increasingly absurd public-service jobs to stay alive.
+### 黑色外包 / Black Commission
 
-Players accept contracts from a battered office computer, prepare improvised gear, ride out in a debt-stamped civic van, survive failed institutions, and return before the paperwork catches up.
+《黑色外包》是一款 1-4 人合作的外包事务所生存恐怖游戏。
 
-## Direction
+玩家经营一家快要倒闭的事务所，为了维持运营，不得不接下各种越来越离谱的外包委托：从破旧办公室里的电脑接单，整理装备，坐上印着债务标记的公务车，前往学校、商场、公寓、诊所等失控的公共空间完成任务，然后在异常和催债般的怪物追上来之前撤离。
 
-We focus on:
+游戏的核心气质是“廉价事务所 + 荒诞委托 + 合作逃生 + 市政债务黑色幽默”。我们希望它既有多人合作时的混乱和笑点，也有探索陌生空间时的紧张感。
 
-- Narrative-driven mystery and horror
-- Co-op systems that create player stories
-- Mundane workplaces turned uncanny
-- Stylized, readable environments
-- Dark comedy grounded in everyday pressure
+## 我们在做什么
 
-## Tech Stack
+- 叙事驱动的悬疑与恐怖体验
+- 能让玩家自然产生故事的多人合作系统
+- 由日常工作和公共空间变形而来的怪诞场景
+- 清晰可读、风格统一的低成本美术表达
+- 带一点荒诞感和现实压力的黑色幽默
+
+## 技术栈
 
 - Unity
 - C#
-- Blender asset workflows
-- GitHub
+- Blender 美术资产流程
+- GitHub Actions
 
-## Current Status
+## 当前状态
 
-Black Commission is in active MVP development.
+《黑色外包》正在进行 MVP 阶段开发。
